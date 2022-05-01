@@ -1,0 +1,3 @@
+rep "mcm_digital_worlding@emadsen@cloud"
+  path "/"
+    smartbranch "/main"

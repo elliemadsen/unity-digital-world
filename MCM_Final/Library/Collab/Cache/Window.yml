@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/CameraMovement.cs
+    - Assets/CameraMovement.cs.meta
+    - Assets/MainMenu.cs
+    - Assets/MainMenu.cs.meta
+    - Assets/Materials/Coral_1_Material.mat
+    - Assets/Materials/Coral_1_Material.mat.meta
+    - Assets/Materials/Coral_2.mat
+    - Assets/Materials/Coral_2.mat.meta
+    - Assets/Materials/Coral_3.mat
+    - Assets/Materials/Coral_3.mat.meta
+    - Assets/Materials/Fabric_1.mat
+    - Assets/Materials/Fabric_1.mat.meta
+    - Assets/Materials/Fabric_2.mat
+    - Assets/Materials/Fabric_2.mat.meta
+    - Assets/Materials/Mushroom.mat
+    - Assets/Materials/Mushroom.mat.meta
+    - Assets/Materials/SeedPod.mat
+    - Assets/Materials/SeedPod.mat.meta
+    - Assets/Materials/wf_animatedtexture.mp4
+    - Assets/Materials/wf_animatedtexture.mp4.meta
+    - Assets/Materials/wf_statictexture.jpg
+    - Assets/Materials/wf_statictexture.jpg.meta
+    - Assets/Objects/Coral_1.obj
+    - Assets/Objects/Coral_1.obj.meta
+    - Assets/Objects/Coral_2.obj
+    - Assets/Objects/Coral_2.obj.meta
+    - Assets/Objects/Coral_3.obj
+    - Assets/Objects/Coral_3.obj.meta
+    - Assets/Objects/Mushroom.obj
+    - Assets/Objects/Mushroom.obj.meta
+    - Assets/Objects/SeedPod.obj
+    - Assets/Objects/SeedPod.obj.meta
+    - Assets/Objects/fabric_2.obj
+    - Assets/Objects/fabric_2.obj.meta
+    - Assets/Objects/fabric_patched.obj
+    - Assets/Objects/fabric_patched.obj.meta
+    - Assets/Scenes/Menu.unity
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/World.unity
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+    - Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    - Assets/Textures/Coral_1_texture.png
+    - Assets/Textures/Coral_1_texture.png.meta
+    - Assets/Textures/Coral_2.png
+    - Assets/Textures/Coral_2.png.meta
+    - Assets/Textures/Coral_3.png
+    - Assets/Textures/Coral_3.png.meta
+    - Assets/Textures/SeedPod.png
+    - Assets/Textures/SeedPod.png.meta
+    - Assets/Textures/fabric_2.png
+    - Assets/Textures/fabric_2.png.meta
+    - Assets/Textures/fabric_patched_tex.png
+    - Assets/Textures/fabric_patched_tex.png.meta
+    - Assets/Textures/mushroomlow_Default_OBJ_BaseColor.jpg
+    - Assets/Textures/mushroomlow_Default_OBJ_BaseColor.jpg.meta
+    - Assets/Textures/wf_animatedtexture.mp4
+    - Assets/Textures/wf_animatedtexture.mp4.meta
+    - Assets/Textures/wf_statictexture.jpg
+    - Assets/Textures/wf_statictexture.jpg.meta
+    - Assets/terrain_texture.jpeg
+    - Assets/terrain_texture.jpeg.meta
+    - ProjectSettings/EditorBuildSettings.asset
+    - 
+    m_Values: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+  RevisionSummary: sf
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
