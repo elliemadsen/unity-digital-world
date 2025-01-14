@@ -22,3 +22,5 @@ The Unity environment was exhibited for Digital Worlding: Terraforming Future, F
 Fabulation at Brown University in an installation that included the physical source materials and
 original music. Projection of the virtual world onto the original textile completed a full cycle of
 physical-to-digital-to-physical translation.
+
+![images of world](readme-image.png)
